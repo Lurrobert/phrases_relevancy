@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pydantic
+starlette
+sentence-transformers
+torchvision
+torch
+nltk

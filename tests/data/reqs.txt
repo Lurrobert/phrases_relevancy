@@ -1,0 +1,9 @@
+JavaScript, HTML, CSS
+A university degree in informatics, mathematics, statistics
+data-intensive applicationsdata lakes
+data platforms
+relational databases
+NoSQL databases (e.g. Oracle, Aurora, Mongodb, Cassandra
+Machine Learning applications
+Big Data technologies
+Hadoop or Spark
